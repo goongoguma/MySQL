@@ -1,4 +1,4 @@
 SELECT *
 FROM customers 
--- WHERE phone IS NULL
-WHERE phone IS NOT NULL
+WHERE phone IS NULL
+-- WHERE phone IS NOT NULL
